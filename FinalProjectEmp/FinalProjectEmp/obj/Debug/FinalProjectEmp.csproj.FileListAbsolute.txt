@@ -1,0 +1,6 @@
+C:\Users\Billy Mallari\FinalProjectEmp\FinalProjectEmp\bin\FinalProjectEmp.dll.config
+C:\Users\Billy Mallari\FinalProjectEmp\FinalProjectEmp\bin\FinalProjectEmp.dll
+C:\Users\Billy Mallari\FinalProjectEmp\FinalProjectEmp\bin\FinalProjectEmp.pdb
+C:\Users\Billy Mallari\FinalProjectEmp\FinalProjectEmp\obj\Debug\FinalProjectEmp.csprojResolveAssemblyReference.cache
+C:\Users\Billy Mallari\FinalProjectEmp\FinalProjectEmp\obj\Debug\FinalProjectEmp.dll
+C:\Users\Billy Mallari\FinalProjectEmp\FinalProjectEmp\obj\Debug\FinalProjectEmp.pdb
